@@ -1,0 +1,58 @@
+.text-trend {
+  font-weight: bolder;
+  text-align: center;
+  margin: 70px 0px 60px 0px;
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.image-trend {
+  margin-right: 10px;
+  background-size: cover;
+  height: 73px;
+  width: 73px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.name-trend {
+  font-weight: bolder;
+  font-size: medium;
+  margin-bottom: 6px;
+}
+
+.price-trend {
+  color: orange;
+  font-size: small;
+  margin-bottom: 6px;
+}
+
+.country-trend {
+  color: rgb(161, 152, 152);
+  font-size: small;
+}
+
+.trending-items {
+  padding: 20px;
+  display: flex;
+  align-items : flex-start;
+  
+}
+
+.trending-cards {
+  width: 1090px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.details-trend {
+  /* display: flex;
+  flex-direction: column;
+  justify-content:flex-start;
+  
+align-items: flex-start; */
+}
